@@ -15,7 +15,7 @@ Backend Developer specialized in building scalable web applications and RESTful 
 
 ### 💼 Experience
 
-**Military Service Year Project (Freelance)**<br>Large-scale internal web system developed during my military service and deployed across military units nationwide.
+**🌍 Military Service Year Project (Freelance)**<br>Large-scale internal web system developed during my military service and deployed across military units nationwide.
 
 - Developed and maintained backend functionality using Laravel and PHP.
 - Designed and optimized relational MySQL database architecture.
