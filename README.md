@@ -2,7 +2,7 @@
 
 ### Backend Developer | PHP & Laravel
 
-Backend Developer based in Cairo, Egypt, specializing in building scalable web applications and RESTful APIs using **PHP, Laravel, and MySQL**.
+Backend Developer specialized in building scalable web applications and RESTful APIs using **PHP, Laravel, and MySQL**.
 
 ### 🛠️ Skills
 
@@ -41,7 +41,7 @@ A competitive gaming platform designed to provide ranking and competitive system
 - Focused on efficient database queries and backend performance under concurrent usage.
 - Designed the backend with modular architecture to support future expansion.
 
-**📦 Al-Fath Inventory & Trading Management System**
+**📦 Al-Fath Company | Fruits Inventory & Trading Management System**
 A business management system developed for **Al-Fath Company**, a large trading company specializing in different types of fruits.
 
 - Designed and developed the relational database architecture for purchases, sales, inventory, customers, payments, and financial operations.
