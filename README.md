@@ -29,8 +29,7 @@ Backend Developer specialized in building scalable web applications and RESTful 
 
 ### 🚀 Main Projects
 
-**🎮 Rank Queue | eSports Competitive Gaming Platform**
-A competitive gaming platform designed to provide ranking and competitive systems for games without built-in ranking functionality.
+**🎮 Rank Queue | eSports Competitive Gaming Platform**<br>A competitive gaming platform designed to provide ranking and competitive systems for games without built-in ranking functionality.
 
 - Designed and developed scalable RESTful APIs for player authentication, rankings, matchmaking, match management, and player statistics.
 - Implemented secure JWT-based authentication and authorization.
@@ -40,8 +39,7 @@ A competitive gaming platform designed to provide ranking and competitive system
 - Focused on efficient database queries and backend performance under concurrent usage.
 - Designed the backend with modular architecture to support future expansion.
 
-**📦 Al-Fath Company | Fruits Inventory & Trading Management System**
-A business management system developed for **Al-Fath Company**, a large trading company specializing in different types of fruits.
+**📦 Al-Fath Company | Fruits Inventory & Trading Management System**<br>A business management system developed for **Al-Fath Company**, a large trading company specializing in different types of fruits.
 
 - Designed and developed the relational database architecture for purchases, sales, inventory, customers, payments, and financial operations.
 - Developed the backend business logic using Laravel MVC.
@@ -51,8 +49,7 @@ A business management system developed for **Al-Fath Company**, a large trading 
 - Developed dynamic interfaces using Bootstrap and AJAX for a responsive user experience.
 - Implemented a modular architecture to keep the system maintainable and scalable.
 
-**🏥 ASU Anesthesia E-Portfolio**
-A web-based e-portfolio and management platform developed for anesthesia residents at Ain Shams University, Faculty of Medicine.
+**🏥 ASU Anesthesia E-Portfolio**<br>A web-based e-portfolio and management platform developed for anesthesia residents at Ain Shams University, Faculty of Medicine.
 
 - Developed RESTful APIs supporting both web and mobile applications.
 - Designed and managed relational database structures using MySQL and Laravel Eloquent ORM.
