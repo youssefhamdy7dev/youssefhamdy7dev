@@ -63,5 +63,3 @@ Backend Developer specialized in building scalable web applications and RESTful 
 
 📧 **Email:** youssefhamdy.dev7@gmail.com<br>
 📍 **Cairo, Egypt**<br>📞 **+20 115 566 3569**
-
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/youssef-hamdy-a498b2366/))
